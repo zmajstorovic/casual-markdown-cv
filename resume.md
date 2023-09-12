@@ -1,10 +1,10 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  majstorovic_zeljko@hotmail.com <br> mobitel: +385 91 928 9246 <br> Zagreb, Hrvatska
 </span>
 
-# Casualwriter  
+# Željko Majstorović  
 
 ## Executive Summary
 
