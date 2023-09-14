@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  majstorovic_zeljko@hotmail.com <br> mobitel: +385 91 928 9246 <br> Zagreb, Hrvatska
+  email@email.com <br> mobitel: +385 91 000 0000<br> Zagreb, Hrvatska
 </span>
 
 # Željko Majstorović  
