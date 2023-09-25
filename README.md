@@ -22,6 +22,7 @@ The following themes are available now
 * [resume-warm.html](resume-warm.html) // warm theme, font=calibri [(preview)](https://raw.githack.com/zmajstorovic/casual-markdown-cv/main/resume-warm.html)
 * [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://raw.githack.com/zmajstorovic/casual-markdown-cv/main/resume-blue.html)
 * [resume-web.html](resume-web.html) // sample for web developer [(preview)](https://raw.githack.com/zmajstorovic/casual-markdown-cv/main/resume-web.html)
+* [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://github.com/zmajstorovic/casual-markdown-cv/main/resume-blue.html)
 
 Sorry for my poor UI design, if still not good enough, please fork this repo and make your own.
 
