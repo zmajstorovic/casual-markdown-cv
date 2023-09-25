@@ -4,7 +4,7 @@
 
 It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format available online. 
 
-Github markdown editor is very handy to draft a nice resume. Here is a sample template: [resume.md](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md).
+Github markdown editor is very handy to draft a nice resume. Here is a sample template: [resume.md](https://github.com/zmajstorovic/casual-markdown-cv/blob/main/resume.md).
 
 just add a little code to transform into online resume with [nice look](https://raw.githack.com/zmajstorovic/casual-markdown-cv/main/resume.html) (hosted at github).
 
